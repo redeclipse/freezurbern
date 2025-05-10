@@ -11,4 +11,4 @@ http://www.freezurbern.com
 
 Originally created for the first person shooters "Cube 2: Sauerbraten" and "Red Eclipse"
 http://sauerbraten.org/
-http://redeclipse.net/
+https://www.redeclipse.net/
